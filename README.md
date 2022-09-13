@@ -7,7 +7,7 @@ This Projhects consists of a responsive site that will eventually become my prof
 
 You can look at the live site here:
 
-https://jonrushing.github.io/Challenge-2-Portfolio/#contact
+https://jonrushing.github.io/Challenge-2-Portfolio/
 
 Feel free to cone the repo and see just what went wrong!
 
