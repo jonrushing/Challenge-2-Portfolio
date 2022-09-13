@@ -1,0 +1,83 @@
+* {
+    background-color: #FCF28F;
+}
+
+.body {
+    display: flex;
+}
+
+
+header, img, .navagation, .navagation ul, .navagation li {
+
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #8fe2fc;
+}
+
+.header img{
+    display: flex;
+}
+
+.header h1 {
+    
+    font-size: 100px;
+    padding: 30px;
+    background-color: #8fe2fc;
+}
+
+.navagation  {
+    align-self: flex-end;
+    background-color: #8fe2fc;
+
+}
+
+.navagation li {
+    
+    display: inline-block;
+    padding: 0 20px;
+    font-size: 30px;
+    margin: 50;
+    background-color: #8fe2fc;
+    list-style: none;
+    justify-content: right;
+    align-content: center;
+
+}
+
+ article, .aboutme, h2, p {
+    background-color: #fc8f99;
+    display: flex;
+    padding: 20px;
+    margin: 50px;
+    align-items: center;
+
+}
+.abtext {
+    border-right: black 10px;
+    font-size: 60;
+}
+.work, .work h2, .work ul, .work li{
+    background-color: #6cd48b;
+    display: flex;
+    padding: 20px;
+    margin: 50px;
+    align-items: right;
+}
+
+.work-img{
+    flex-wrap: wrap;
+    display: flex;
+    height: 25%;
+    justify-content: right;
+}
+.contact, .contact li {
+    display: flex;
+    flex-wrap: wrap;
+   flex-direction: row;
+    font-size: 30px;
+    
+    background-color: #8fe2fc;
+}
+.contact ul {
+    justify-content: center;
+}
